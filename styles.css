@@ -28,6 +28,7 @@
     background-color: white;
     border-style: solid;
     border-width: 2px;
+    padding: 10px;
 }
 
 .background {
@@ -64,6 +65,7 @@ a:link, a:visited {
     border-width: 4px;
     border-radius: 50px;
     margin: 2px;
+    width: 120px;
 }
 
 a:hover, a:active {
