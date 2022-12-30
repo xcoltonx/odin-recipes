@@ -2,7 +2,7 @@
 
 .one {
     border: solid;
-    border-color: lightcoral;
+    border-color: rgba(212, 110, 110, 0.712);
     border-left-width: 20px;
     border-right-width: 20px;
     height: auto;
@@ -43,7 +43,7 @@
 .recipes {
     list-style-type: square;
     color: white;
-    background-color: #E27D60;
+    background-color: rgba(212, 110, 110, 0.712);
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
