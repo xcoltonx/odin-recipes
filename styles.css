@@ -42,11 +42,14 @@
 
 .recipes {
     list-style-type: square;
-    color: #41B3A3;
+    color: white;
     background-color: #E27D60;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
+    border-style: dashed;
+    border-width: 6px;
+    border-color: white;
 }
 
 a:link, a:visited {
@@ -56,8 +59,11 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-  }
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 50px;
+}
 
-  a:hover, a:active {
+a:hover, a:active {
     background-color: #36998c;
-  }
+}
